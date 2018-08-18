@@ -244,3 +244,4 @@ win.displayPosition();
 * https://javascriptplayground.com/es5-getters-setters/
 * https://stackoverflow.com/questions/5222209/getter-setter-in-constructor
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
